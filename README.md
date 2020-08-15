@@ -14,4 +14,4 @@ The page should now be available at `http:localhost:8000`
 
 ## See it live!
 
-    Navigate [here[](https://popaclctin.github.io/ocala-newsletter) to see it live!
+    Navigate [here](https://popaclctin.github.io/ocala-newsletter) to see it live!
